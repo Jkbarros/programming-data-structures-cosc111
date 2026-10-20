@@ -1,6 +1,6 @@
-﻿# COSC 111 â€” Programming and Data Structures
+﻿# COSC 111 - Programming and Data Structures
 
-College coursework archive for **COSC 111 â€” Programming and Data Structures** at Eastern Michigan University.  
+College coursework archive for **COSC 111 - Programming and Data Structures** at Eastern Michigan University.  
 Eclipse/BlueJ-style Java labs: hash tables, binary structures, inheritance, and polymorphism.
 
 **Author:** [Julio Barros](https://github.com/Jkbarros)  
@@ -26,7 +26,7 @@ Eclipse/BlueJ-style Java labs: hash tables, binary structures, inheritance, and 
 
 | Course | Link |
 |--------|------|
-| IA 103 â€” Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
+| IA 103 - Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
 | college-projects index | [college-projects](https://github.com/Jkbarros/college-projects) |
 
 ## Roadmap
@@ -41,4 +41,4 @@ Eclipse/BlueJ-style Java labs: hash tables, binary structures, inheritance, and 
 
 ## License
 
-Content Â© Julio Barros. Use at your own risk.
+Content © Julio Barros. Use at your own risk.
