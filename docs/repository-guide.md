@@ -1,12 +1,25 @@
 # Repository guide — COSC 111
 
-| Path | Contents |
-|------|----------|
-| `Lab/Lab/` | Hash table lab (`src/HashTable.java`, `module-info.java`) |
-| `lab_binary/lab_binary/` | `Problem1.java`, `Problem2.java`, `person.java` |
-| `lab_inheritance/lab_inheritance/` | `Vehicle`, `Truck`, `Person` hierarchy |
-| `lab_polymorphism/lab_polymorphism copy/` | Movie rental (`Action`, `Comedy`, `Drama`, `Rent`, etc.) |
-| `Output.png`, `Output2.png` | Run/output screenshots |
-| `Project Java.txt` | Course project notes |
+Start with the **[labs catalog](labs-catalog.md)** for links to each lab write-up.
 
-Open any row’s folder as an Eclipse project (`.project` + `.classpath` present).
+## Eclipse import paths
+
+| Lab | Import this folder |
+|-----|-------------------|
+| Hash table | `Lab/Lab` |
+| Binary I/O | `lab_binary/lab_binary` |
+| Inheritance | `lab_inheritance/lab_inheritance` |
+| Polymorphism | `lab_polymorphism/lab_polymorphism copy` |
+
+Each folder contains `.project` and `.classpath` from the course export.
+
+## File types
+
+- **`src/**/*.java`** — source to read and run
+- **`bin/**`** — precompiled `.class` from export (optional; recompile in IDE)
+- **`Output.png`**, **`Project Java.txt`** — coursework artifacts at repo root
+
+## Tips
+
+- For binary labs, run with working directory = project root so `numbers.dat` / `person.dat` resolve.
+- JavaFX project code lives in `Project Java.txt`; see [project-javafx-checkerboard.md](project-javafx-checkerboard.md).
